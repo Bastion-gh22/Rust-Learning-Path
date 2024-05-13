@@ -1,1 +1,1 @@
-/Users/omarchaviraroman/Documents/Programming/Rust-Learning-Path/guessing_game/target/debug/guessing_game: /Users/omarchaviraroman/Documents/Programming/Rust-Learning-Path/guessing_game/src/main.rs
+/home/ochavira/Documents/Programming/Rust-Learning-Path/guessing_game/target/debug/guessing_game: /home/ochavira/Documents/Programming/Rust-Learning-Path/guessing_game/src/main.rs
